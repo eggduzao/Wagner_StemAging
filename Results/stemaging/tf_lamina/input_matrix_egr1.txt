@@ -1,0 +1,10 @@
+name	type	file
+EGR1_1_HYPER	regions	AllCoord/fibroblasts_f6_hyper/EGR1.bed
+EGR1_1_HYPO	regions	AllCoord/fibroblasts_f6_hypo/EGR1.bed
+EGR1_2_HYPER 	regions	AllCoord/fibroblasts_f8_hyper/EGR1.bed
+EGR1_2_HYPO	regions AllCoord/fibroblasts_f8_hypo/EGR1.bed
+EGR1_MSC_HYPER	regions	AllCoord/koch_senescence_hyper/EGR1.bed
+EGR1_MSC_HYPO	regions	AllCoord/koch_senescence_hypo/EGR1.bed
+MSC_UP	genes	up_genes.txt
+MSC_DOWN	genes	down_genes.txt
+

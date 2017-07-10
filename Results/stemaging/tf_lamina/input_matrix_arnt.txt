@@ -1,0 +1,11 @@
+name	type	file
+ARNT_1_HYPER	regions	AllCoord/fibroblasts_f6_hyper/ARNT.bed
+ARNT_1_HYPO	regions	AllCoord/fibroblasts_f6_hypo/ARNT.bed
+ARNT_2_HYPER 	regions	AllCoord/fibroblasts_f8_hyper/ARNT.bed
+ARNT_2_HYPO	regions AllCoord/fibroblasts_f8_hypo/ARNT.bed
+
+ARNT_MSC_HYPER	regions	AllCoord/koch_senescence_hyper/ARNT.bed
+ARNT_MSC_HYPO	regions	AllCoord/koch_senescence_hypo/ARNT.bed
+MSC_UP	genes	up_genes.txt
+MSC_DOWN	genes	down_genes.txt
+
