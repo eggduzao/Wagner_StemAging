@@ -1,3 +1,0 @@
-	fibroblasts_f6_hyper	fibroblasts_f6_hypo	fibroblasts_f8_hyper	fibroblasts_f8_hypo	koch_senescence_hyper	koch_senescence_hypo
-EGR3	1.0	1.0	1.0	1.0	1.0	1.0
-EGR4	1.0	1.0	1.0	1.0	1.0	1.0
